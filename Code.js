@@ -1,4 +1,4 @@
-
+//some changed 1.1
 function onOpen() {
     SpreadsheetApp.getUi()
         .createMenu('Check sheets for DB')
