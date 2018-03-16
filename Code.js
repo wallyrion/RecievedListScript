@@ -6,6 +6,7 @@ function onOpen() {
         .addToUi();
         
 }
+//changes 2
 function onEdit(e){
     var range = e.range;
     var sheet = SpreadsheetApp.getActiveSheet();
