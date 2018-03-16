@@ -15,6 +15,7 @@ function onEdit(e){
         sheet.getRange(range.getRow(), range.getColumn()).setValue("Done");
     }
 }
+//changes4
 function createDialog() {
 
     var htmlDialog = HtmlService.createHtmlOutputFromFile("scriptHTML")
